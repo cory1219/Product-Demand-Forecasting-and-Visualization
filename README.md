@@ -16,4 +16,4 @@ time series line plot
 
 ![Figure 2021-06-14 170426](https://user-images.githubusercontent.com/75773374/123293343-7c040f80-d546-11eb-874b-c682b7e61627.png)
 
-demand forecasting before vs. after
+Seasonal ARIMAX model predicts demand before vs. after
